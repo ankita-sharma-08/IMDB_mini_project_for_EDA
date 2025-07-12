@@ -1,5 +1,3 @@
-Here's a README file for the `IMDB_project.ipynb` notebook, based on the provided content:
-
 # IMDB Project Analysis
 
 This Jupyter notebook (`IMDB_project.ipynb`) performs an exploratory data analysis and preprocessing on a dataset of IMDB shows. The goal is to understand the dataset's structure, clean and transform relevant columns, and identify potential relationships between features, particularly concerning IMDB ratings.
