@@ -68,7 +68,7 @@ The notebook generates the following plots:
     git clone https://github.com/ankita-sharma-08/IMDB_mini_project_for_EDA.git
     cd IMDB_mini_project_for_EDA
     ```
-    Or just download the 'IMDB_mini_project_for_EDA' Jupyter Notebook
+    Or just download the 'EDA_IMDB_mini_Project.ipynb' Jupyter Notebook
 2.  **Ensure you have the dataset**: Place `shows.csv` in the root directory of the cloned repository.
 3.  **Install dependencies**: It's recommended to use a virtual environment.
     ```bash
