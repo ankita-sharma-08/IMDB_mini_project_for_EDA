@@ -65,8 +65,8 @@ The notebook generates the following plots:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <https://github.com/ankita-sharma-08/IMDB_mini_project_for_EDA.git>
+    cd <IMDB_mini_project_for_EDA>
     ```
 2.  **Ensure you have the dataset**: Place `shows.csv` in the root directory of the cloned repository.
 3.  **Install dependencies**: It's recommended to use a virtual environment.
