@@ -2,27 +2,13 @@
 
 This Jupyter notebook (`IMDB_project.ipynb`) performs an exploratory data analysis and preprocessing on a dataset of IMDB shows. The goal is to understand the dataset's structure, clean and transform relevant columns, and identify potential relationships between features, particularly concerning IMDB ratings.
 
-## Table of Contents
-
-- [IMDB Project Analysis](#imdb-project-analysis)
-  - [Table of Contents](#table-of-contents)
-  - [Project Overview](#project-overview)
-  - [Dataset](#dataset)
-  - [Notebook Structure and Key Steps](#notebook-structure-and-key-steps)
-    - [1. Data Loading, Exploration and Preprocessing](#1-data-loading-exploration-and-preprocessing)
-    - [2. Data Cleaning and Transformation](#2-data-cleaning-and-transformation)
-    - [3. Exploratory Data Analysis (EDA) and Visualization](#3-exploratory-data-analysis-eda-and-visualization)
-  - [Dependencies](#dependencies)
-  - [Usage](#usage)
-  - [Results and Insights (Preliminary)](#results-and-insights-preliminary)
-
 ## Project Overview
 
 This project analyzes a dataset containing information about IMDB shows. It focuses on data cleaning, feature engineering, and initial exploratory data analysis to uncover patterns and correlations, especially those related to `imbd_rating`.
 
 ## Dataset
 
-The analysis uses a CSV file named `shows.csv`. Based on the notebook's output, the dataset contains 250 entries and 22 columns, including:
+We uses a CSV file named `shows.csv`. Based on the notebook's output, the dataset contains 250 entries and 22 columns, including:
 
 - `rank`: Rank of the show.
 - `show_id`: Unique identifier for the show.
