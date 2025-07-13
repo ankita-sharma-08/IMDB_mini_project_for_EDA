@@ -1,4 +1,4 @@
-# IMDB Shows Exploratory Data Analysis
+# IMDB show reating mini porject Exploratory Data Analysis
 
 This repository contains a Jupyter Notebook (`EDA_IMDB_mini_Project.ipynb`) that performs Exploratory Data Analysis (EDA) on a dataset of IMDB shows. The analysis aims to understand the characteristics of the dataset, identify relationships between different features, and visualize key insights.
 
